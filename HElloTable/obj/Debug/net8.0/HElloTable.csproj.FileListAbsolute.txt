@@ -1,0 +1,17 @@
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\HElloTable.exe
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\HElloTable.deps.json
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\HElloTable.runtimeconfig.json
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\HElloTable.dll
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\HElloTable.pdb
+D:\Samples\HElloTable\HElloTable\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.csproj.AssemblyReference.cache
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.AssemblyInfoInputs.cache
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.AssemblyInfo.cs
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.csproj.CoreCompileInputs.cache
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.csproj.Up2Date
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.dll
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\refint\HElloTable.dll
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.pdb
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\HElloTable.genruntimeconfig.cache
+D:\Samples\HElloTable\HElloTable\obj\Debug\net8.0\ref\HElloTable.dll
